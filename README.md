@@ -1,2 +1,2 @@
 # Password-generator
-This is a tiny project for creating and setting a random password from the keyboard characters .This uses random library which randomly generates a password and allows the user to validate and select the desired password,until which new passwords will be generated.
+This is a tiny project for creating and setting a random password from the keyboard characters with user interaction and validation.This uses random library which randomly generates a password and allows the user to validate and select the desired password using a yes or no input. If the generated password does not satisfy the user, new passwords will be generated until the user decides to go ahead with the password.
